@@ -48,6 +48,10 @@
   <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
+
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AleksandarTulic&layout=compact&theme=radical"
+/>
 <!--
 **AleksandarTulic/AleksandarTulic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
