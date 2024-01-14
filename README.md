@@ -32,6 +32,7 @@
   <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=000&style=flat"/>
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=fff&style=flat"/>
 </p>
 
 **Version Control and Development tools used:**
