@@ -2,10 +2,18 @@
 
 ![](https://komarev.com/ghpvc/?username=AleksandarTulic&color=blue&style=for-the-badge)
 
+**Version Control and Development tools used:**
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
+</p>
 
 **Operating System familliar with:**
 <p>
-  <img alt="Ubuntu Package Version (for series)" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/bionic">
+  <img alt="Linux" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/bionic">
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 <!--
 **AleksandarTulic/AleksandarTulic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
