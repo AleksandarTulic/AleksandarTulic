@@ -49,9 +49,10 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
-<img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AleksandarTulic&layout=compact&theme=radical"
-/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thivagar-manickam&count_private=true&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AleksandarTulic&layout=compact&theme=radical"/>
+</div>
 <!--
 **AleksandarTulic/AleksandarTulic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
