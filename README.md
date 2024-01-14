@@ -49,6 +49,16 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
+<br><br>
+<div align="center">
+ <div>
+   <p>&nbsp;
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AleksandarTulic&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="AleksandarTulic" />
+   </p>
+  </div>
+ </div>
+<br><h2></h2><br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AleksandarTulic&count_private=true&theme=radical&show_icons=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AleksandarTulic&layout=compact&theme=radical"/>
