@@ -5,7 +5,7 @@
 
 **Operating System familliar with:**
 <p>
-  <img alt="Ubuntu Package Version (for series)" src="https://img.shields.io/ubuntu/v/:ubuntu-wallpapers/:jammy">
+  <img alt="Ubuntu Package Version (for series)" src="https://img.shields.io/ubuntu/v/ubuntu-wallpapers/bionic">
 </p>
 <!--
 **AleksandarTulic/AleksandarTulic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
