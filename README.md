@@ -50,7 +50,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thivagar-manickam&count_private=true&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AleksandarTulic&count_private=true&theme=radical&show_icons=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AleksandarTulic&layout=compact&theme=radical"/>
 </div>
 <!--
