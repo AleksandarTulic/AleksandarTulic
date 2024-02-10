@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AleksandarTulic&color=blue&style=for-the-badge)
 
-**Have worked with:**
+**I have worked with:**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat" />
@@ -43,7 +43,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" />
 </p>
 
-**Operating System familliar with:**
+**Operating Systems familliar with:**
 <p>
   <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
